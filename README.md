@@ -21,9 +21,9 @@
 <p align="left">
 <a href="https://twitter.com/danielgitauke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielgitauke" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/danielgitauke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielgitauke" height="30" width="40" /></a>
-<a href="https://fb.com/daniel gitau njuguna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel gitau njuguna" height="30" width="40" /></a>
+<a href="https://fb.com/https://web.facebook.com/danielgitau.njuguna.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/danielgitau.njuguna.31" height="30" width="40" /></a>
 <a href="https://instagram.com/danielgitauke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielgitauke" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/danielgitauke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="danielgitauke" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@danielgitauke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@danielgitauke" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielgitau&show_icons=true&locale=en" alt="danielgitau" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielgitau&" alt="danielgitau" /></p>
-
